@@ -1,0 +1,9 @@
+c:\users\samwd\onedrive\documents\visual studio 2017\Projects\HDDActivity\HDDActivity\bin\Debug\HDDActivity.exe.config
+c:\users\samwd\onedrive\documents\visual studio 2017\Projects\HDDActivity\HDDActivity\bin\Debug\HDDActivity.exe
+c:\users\samwd\onedrive\documents\visual studio 2017\Projects\HDDActivity\HDDActivity\bin\Debug\HDDActivity.pdb
+c:\users\samwd\onedrive\documents\visual studio 2017\Projects\HDDActivity\HDDActivity\obj\Debug\HDDActivity.Properties.Resources.resources
+c:\users\samwd\onedrive\documents\visual studio 2017\Projects\HDDActivity\HDDActivity\obj\Debug\HDDActivity.csproj.GenerateResource.Cache
+c:\users\samwd\onedrive\documents\visual studio 2017\Projects\HDDActivity\HDDActivity\obj\Debug\HDDActivity.exe
+c:\users\samwd\onedrive\documents\visual studio 2017\Projects\HDDActivity\HDDActivity\obj\Debug\HDDActivity.pdb
+c:\users\samwd\onedrive\documents\visual studio 2017\Projects\HDDActivity\HDDActivity\bin\Debug\active.ico
+c:\users\samwd\onedrive\documents\visual studio 2017\Projects\HDDActivity\HDDActivity\bin\Debug\inactive.ico
